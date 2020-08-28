@@ -3,9 +3,9 @@ This is the repository for paper "An Algebraic Formulation of the Division Prope
 
 ## Contents
 
-1.  [Code for recovering the superpoly for 840-, 841- and 842-round Trivium](https://github.com/MonomialPrediction/Rebuttal/tree/master/cube)
-2. [Code for compute the exact degree of Trivium up to 834 rounds](https://github.com/MonomialPrediction/Rebuttal/tree/master/Degree)
-5. [A demo for PoolSearchMode by a + b + c + d + e + f = 1 example](https://github.com/MonomialPrediction/Rebuttal/blob/master/demo_for_reviewer_a%2Bb%2Bc%2Bd%2Be%2Bf.py)
+1.  [Code for recovering the superpoly for 840-, 841- and 842-round Trivium](https://github.com/hukaisdu/MonomialPrediction/tree/master/Cube)
+2. [Code for compute the exact degree of Trivium up to 834 rounds](https://github.com/hukaisdu/MonomialPrediction/tree/master/Degree)
+5. [A demo for PoolSearchMode by a + b + c + d + e + f = 1 example](https://github.com/hukaisdu/MonomialPrediction/blob/master/demo_poolsearchMode.py)
 
  ## Usage of the Codes in Cube and Degree
 
