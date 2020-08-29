@@ -1,5 +1,5 @@
 # Monomial Prediction
-This is the repository for paper "An Algebraic Formulation of the Division Property: Revisiting Degree Evaluations, Cube Attacks, and Key-Independent Sums" accepted by the Asiacrypt 2020.
+This is the repository for the paper "An Algebraic Formulation of the Division Property: Revisiting Degree Evaluations, Cube Attacks, and Key-Independent Sums" accepted by the Asiacrypt 2020.
 
 ## Contents
 
