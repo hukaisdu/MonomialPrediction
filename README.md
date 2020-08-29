@@ -5,7 +5,8 @@ This is the repository for the paper "An Algebraic Formulation of the Division P
 
 1.  [Code for recovering the superpoly for 840-, 841- and 842-round Trivium](https://github.com/hukaisdu/MonomialPrediction/tree/master/Cube)
 2. [Code for compute the exact degree of Trivium up to 834 rounds](https://github.com/hukaisdu/MonomialPrediction/tree/master/Degree)
-5. [A demo for PoolSearchMode by a + b + c + d + e + f = 1 example](https://github.com/hukaisdu/MonomialPrediction/blob/master/demo_poolsearchMode.py)
+3. [A demo for PoolSearchMode by a + b + c + d + e + f = 1 example](https://github.com/hukaisdu/MonomialPrediction/blob/master/demo_poolsearchMode.py)
+4. [Superpolies that contain two many monomials (PI6, PI7, PI9, PI10) used in Section 5](https://github.com/hukaisdu/MonomialPrediction/blob/master/superpoly.pdf)
 
  ## Usage of the Codes in Cube and Degree
 
